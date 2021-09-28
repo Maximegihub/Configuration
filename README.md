@@ -1,8 +1,7 @@
 - 👋 Bonjour je m'appelle Maxime
 - 👀 Je suis intéressé par le Html/Css et JavaScript
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 J'apprend actuellement le Html et le css.
+- 📫 Mon adresse mail: larrouquerem@gmail.com
 
 <!---
 Maximegihub/Maximegihub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
