@@ -1,6 +1,6 @@
 - 👋 Bonjour je m'appelle Maxime
 - 👀 Je suis intéressé par le Html/Css et JavaScript
-- 🌱 J'apprend actuellement le Html et le css.
+- 🌱 J'apprend actuellement le métier de Developpeur intégrateur chez Simplon
 - 📫 Mon adresse mail: larrouquerem@gmail.com
 
 <!---
